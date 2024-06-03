@@ -7,6 +7,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WSObservable implements Observable {
+    public List<NotificationAlert> getNotificationAlertList() {
+        return notificationAlertList;
+    }
+
+    public void setNotificationAlertList(List<NotificationAlert> notificationAlertList) {
+        this.notificationAlertList = notificationAlertList;
+    }
+
     List<NotificationAlert> notificationAlertList = new ArrayList<>();
     public int temp=0;
     @Override
