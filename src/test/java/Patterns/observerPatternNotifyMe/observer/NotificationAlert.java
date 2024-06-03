@@ -1,4 +1,4 @@
-package observerPatternNotifyMe.observer;
+package Patterns.observerPatternNotifyMe.observer;
 
 public class NotificationAlert {
     String string;

@@ -1,4 +1,4 @@
-package DecoraterPattern.Pizza.DifferentPizza;
+package Patterns.DecoraterPattern.Pizza.DifferentPizza;
 
 
 public class FarmHouse extends BasePizza {

@@ -1,6 +1,6 @@
-package DecoraterPattern.Pizza.Decorator;
+package Patterns.DecoraterPattern.Pizza.Decorator;
 
-import DecoraterPattern.Pizza.DifferentPizza.BasePizza;
+import Patterns.DecoraterPattern.Pizza.DifferentPizza.BasePizza;
 
 public class ExtraaCheese extends ToppLings{
     BasePizza basePizza;

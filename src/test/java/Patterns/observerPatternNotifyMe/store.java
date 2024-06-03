@@ -1,7 +1,7 @@
-package observerPatternNotifyMe;
+package Patterns.observerPatternNotifyMe;
 
-import observerPatternNotifyMe.observable.WSObservable;
-import observerPatternNotifyMe.observer.NotificationAlert;
+import Patterns.observerPatternNotifyMe.observable.WSObservable;
+import Patterns.observerPatternNotifyMe.observer.NotificationAlert;
 
 import java.util.ArrayList;
 import java.util.List;

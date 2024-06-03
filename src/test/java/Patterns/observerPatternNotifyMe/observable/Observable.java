@@ -1,6 +1,6 @@
-package observerPatternNotifyMe.observable;
+package Patterns.observerPatternNotifyMe.observable;
 
-import observerPatternNotifyMe.observer.NotificationAlert;
+import Patterns.observerPatternNotifyMe.observer.NotificationAlert;
 
 public interface Observable {
     void add(NotificationAlert observer);

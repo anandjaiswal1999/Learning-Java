@@ -1,4 +1,4 @@
-package DecoraterPattern.Pizza.DifferentPizza;
+package Patterns.DecoraterPattern.Pizza.DifferentPizza;
 
 public class VegDelight extends BasePizza {
     @Override

@@ -1,9 +1,9 @@
-package DecoraterPattern.Pizza;
+package Patterns.DecoraterPattern.Pizza;
 
-import DecoraterPattern.Pizza.DifferentPizza.BasePizza;
-import DecoraterPattern.Pizza.DifferentPizza.FarmHouse;
-import DecoraterPattern.Pizza.Decorator.ExtraaCheese;
-import DecoraterPattern.Pizza.Decorator.Tomato;
+import Patterns.DecoraterPattern.Pizza.DifferentPizza.BasePizza;
+import Patterns.DecoraterPattern.Pizza.DifferentPizza.FarmHouse;
+import Patterns.DecoraterPattern.Pizza.Decorator.ExtraaCheese;
+import Patterns.DecoraterPattern.Pizza.Decorator.Tomato;
 
 public class main {
     public static void main(String[] args) {
